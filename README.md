@@ -1,8 +1,7 @@
 # Python-RFM-Analysis
+This project is implemented to find out the strategy for each customer segment based on RFM Analysis
+
 # Python_RFM_Analysis: Customer segmentation
-
-
-
 
 ## I. Introduction
 ### 1. Business question
