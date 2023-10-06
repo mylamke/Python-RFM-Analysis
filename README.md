@@ -39,7 +39,9 @@ Dataset includes 4 different related tables including: transaction information, 
 
 <img width="288" alt="pic1" src="https://github.com/mylam7/Python-RFM-Analysis/assets/133579378/e06d14eb-6dcf-42b7-9beb-cf947dbd6e88">
 
+
 <img width="371" alt="pic2" src="https://github.com/mylam7/Python-RFM-Analysis/assets/133579378/039e480a-614c-4224-840a-b49d7ed630a5">
+
 
 <img width="515" alt="pic3" src="https://github.com/mylam7/Python-RFM-Analysis/assets/133579378/07fd80dd-081b-42a9-9e30-bdf0fef95cc7">
 
