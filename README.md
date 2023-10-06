@@ -36,11 +36,11 @@ Dataset includes 4 different related tables including: transaction information, 
 - RFM analysis numerically ranks a customer in each of these three categories, generally on a scale of 1 to 5 (the higher the number, the better the result). The “best” customer would receive a top score in every category.
 
 ## II. Data Visualization with Python
-![image](https://github.com/mylam7/Python-RFM-Analysis/assets/74374068/7b02eae9-fd53-4408-9bde-c184a43ba71f)
+![image](https://github.com/mylam7/Python-RFM-Analysis/assets/pic1.PNG)
 
-![image](https://github.com/mylam7/Python-RFM-Analysis/assets/74374068/5b752bb0-6bcf-4dbe-baaa-f8e2f3936c91)
+![image](https://github.com/mylam7/Python-RFM-Analysis/assets/pic2.PNG)
 
-![image](https://github.com/mylam7/Python-RFM-Analysis/assets/74374068/db511375-b9d7-4cd8-87f1-85479f82d7f3)
+![image](https://github.com/mylam7/Python-RFM-Analysis/assets/pic3.PNG)
 
 ![Capture](https://github.com/mylam7/Python-RFM-Analysis/assets/74374068/2d40fcec-669e-4c32-843b-c3003cf0f9c3)
 
