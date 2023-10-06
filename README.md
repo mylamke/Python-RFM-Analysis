@@ -36,17 +36,13 @@ Dataset includes 4 different related tables including: transaction information, 
 - RFM analysis numerically ranks a customer in each of these three categories, generally on a scale of 1 to 5 (the higher the number, the better the result). The “best” customer would receive a top score in every category.
 
 ## II. Data Visualization with Python
-![image](https://github.com/mylam7/Python-RFM-Analysis/assets/pic1.PNG)
 
-![image](https://github.com/mylam7/Python-RFM-Analysis/assets/pic2.PNG)
+<img width="288" alt="pic1" src="https://github.com/mylam7/Python-RFM-Analysis/assets/133579378/e06d14eb-6dcf-42b7-9beb-cf947dbd6e88">
 
-![image](https://github.com/mylam7/Python-RFM-Analysis/assets/pic3.PNG)
+<img width="371" alt="pic2" src="https://github.com/mylam7/Python-RFM-Analysis/assets/133579378/039e480a-614c-4224-840a-b49d7ed630a5">
 
-![Capture](https://github.com/mylam7/Python-RFM-Analysis/assets/74374068/2d40fcec-669e-4c32-843b-c3003cf0f9c3)
+<img width="515" alt="pic3" src="https://github.com/mylam7/Python-RFM-Analysis/assets/133579378/07fd80dd-081b-42a9-9e30-bdf0fef95cc7">
 
-![image](https://github.com/mylam7/Python-RFM-Analysis/assets/74374068/7f9a2357-249a-4eb6-982f-fa687bf60e4c)
-
-![image](https://github.com/mylam7/Python-RFM-Analysis/assets/74374068/13b0e6d9-4233-4741-bf78-7ecb74417de6)
 
 ## III. Insights
 ### 1. Recency, Frequency and Monetory value of Superstore:
