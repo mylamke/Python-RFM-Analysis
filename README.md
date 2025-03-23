@@ -24,7 +24,7 @@ Dataset includes 4 different related tables including: transaction information, 
 
 - **Products dataframe**: We have to split each RFM score into single rows
 
-
+ 
 
 ### 3. RFM model
 - RFM is a method used for analyzing customer value. It is commonly used in database marketing and direct marketing and has received particular attention in retail and professional services industries
