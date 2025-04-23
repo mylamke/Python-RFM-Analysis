@@ -13,7 +13,7 @@ Dataset includes 4 different related tables including: transaction information, 
 - **Transaction information dataframe**
 
  
-
+ 
 - **Returned orders dataframe**: We have to filter orders that were not returned before RFM anaalysis.
  
 
