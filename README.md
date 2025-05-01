@@ -44,7 +44,7 @@ Dataset includes 4 different related tables including: transaction information, 
 
 <img width="515" alt="pic3" src="https://github.com/mylam7/Python-RFM-Analysis/assets/133579378/07fd80dd-081b-42a9-9e30-bdf0fef95cc7">
 
-
+ 
 ## III. Insights
 ### 1. Recency, Frequency and Monetory value of Superstore:
 - As a retailer, Superstore should prioritize Recency and Frequency over their Monetary since their most loyal shoppers may make many purchases throughout the year at lower Average Transaction Sizes. However, Superstore's Recency and Frequency do not have many positive signs
