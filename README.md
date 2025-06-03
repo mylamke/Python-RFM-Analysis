@@ -12,7 +12,7 @@ This project is implemented to find out the strategy for each customer segment b
 Dataset includes 4 different related tables including: transaction information, products information, returned orders of customers purchasing products from 2014 to 2017 and RFM classification
 - **Transaction information dataframe**
 
- 
+  
  
 - **Returned orders dataframe**: We have to filter orders that were not returned before RFM anaalysis.
  
