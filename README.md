@@ -22,7 +22,7 @@ Dataset includes 4 different related tables including: transaction information, 
 
 
 
-- **Products dataframe**: We have to split each RFM score into single rows
+- **Products dataframe**: We have to split each RFM score into single rows 
 
  
 
