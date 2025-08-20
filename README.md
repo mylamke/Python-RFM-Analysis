@@ -2,7 +2,7 @@
 This project is implemented to find out the strategy for each customer segment based on RFM Analysis
 
 # Python_RFM_Analysis: Customer segmentation
-  
+   
 ## I. Introduction 
 ### 1. Business question
 - SuperStore is a global retail company. The Marketing Department wants to run marketing campaigns during the Christmas and New Year holidays to thank customers for their past support of the company. In addition, potential customers can be upgraded to become loyal customers.
