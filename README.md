@@ -19,7 +19,7 @@ Dataset includes 4 different related tables including: transaction information, 
 
 
 - **Segmentation dataframe**: 'Product ID' is not unique because some products have same Product ID but have different Product Name => drop 'Product Name' then remove duplicate records so that 'Product ID' will be unique.
-
+ 
 
 
 - **Products dataframe**: We have to split each RFM score into single rows 
